@@ -8,11 +8,16 @@ Builds
 .vs/
 My Project/
 App_Data/
+node_modules/
 packages/
 Properties/
 *.sln
 *.csproj
 *.csproj.user
+*.njsproj
+*.njsproj.user
+*.pyproj
+*.pyproj.user
 *.vbproj
 *.vbproj.user
 *.config
